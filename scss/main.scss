@@ -1,0 +1,35 @@
+@import "sats_variables";
+
+//@import "bootswatch/dist/flatly/variables";
+@import "bootstrap/bootstrap";
+//@import "bootswatch/dist/flatly/bootswatch";
+
+//@import "mdb/mdb";
+//@import "./fontawesome/scss/fontawesome";
+
+@import "sats_style";
+@import "sats_woocommerce";
+@import "sats_custom";
+
+
+
+
+
+a {
+    text-decoration-line: none;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.widget .searchform,
+.widget .searchform .input-group {
+    display: flex;
+    flex-direction: row-reverse;
+
+    input::placeholder {
+        color: transparent;
+    }
+}

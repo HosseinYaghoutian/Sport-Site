@@ -1,0 +1,8 @@
+{
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+    "liveSassCompile.settings.autoprefix": [
+
+    
+    ],
+    "liveSassCompile.settings.generateMap": false
+}

@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2022-06-20 07:52+0000\n"
+"PO-Revision-Date: 2022-09-06 23:33+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+
+#: functions.php:282
+msgid ""
+" <a href=\"https://www.microsoft.com/edge\" target=\"_blank\">Microsoft Edge</a> "
+msgstr ""
+
+#: functions.php:280
+msgid ""
+" <a href=\"https://www.mozilla.org/firefox/\" target=\"_blank\">Mozilla Firefox</"
+"a>, <a href=\"https://www.google.com/chrome/\" target=\"_blank\">Google Chrome</"
+"a>, <a href=\"https://www.opera.com/\" target=\"_blank\">Opera</a> "
+msgstr ""
+
+#: single.php:29 single-templates/single-sidebar-none.php:28
+#: single-templates/single-sidebar-left.php:31
+#: single-templates/single-full-width-image.php:37
+msgid " by "
+msgstr "توسط"
+
+#: inc/comment-list.php:44
+#, php-format
+msgid "%s <span class=\"says d-none\">says:</span>"
+msgstr "%s <span class=\"says d-none\">می‌گوید:</span>"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:39
+msgid ", "
+msgstr ""
+
+#: languages/plugin-translations.php:5
+msgid "/privacy-policy"
+msgstr "/سیاست حفظ حریم خصوصی"
+
+#: inc/comment-list.php:49
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:220
+msgid "404 Page"
+msgstr "صفحه ۴۰۴ "
+
+#. Description of the theme
+msgid ""
+"A powerful Bootstrap 5 WordPress Starter Theme with WooCommerce Support. <a href="
+"\"https://bootscore.me/category/documentation/\">Documentation</a>. This theme "
+"gives you full control whatever you do and the full freedom to design whatever "
+"you want. It comes with a wide selection of category, page, post, author and "
+"archive templates as well as sidebar, header, footer and 404 widgets. There are "
+"no customizer settings in the backend. All settings can only be made by touching "
+"the code. Some CSS, HTML, PHP and JS Skills are required to customize it."
+msgstr ""
+
+#: languages/plugin-translations.php:7
+msgid "Accept"
+msgstr "تایید"
+
+#: header-woocommerce.php:136
+msgid "Account"
+msgstr "حساب کاربری"
+
+#: functions.php:126 functions.php:138 functions.php:150 functions.php:162
+#: functions.php:174 functions.php:186 functions.php:198 functions.php:210
+#: functions.php:222
+msgid "Add widgets here."
+msgstr "ویجت ها را در اینجا اضافه کنید"
+
+#: languages/plugin-translations.php:2
+msgid "All"
+msgstr "همه"
+
+#: 404.php:28
+msgid "Back Home &raquo;"
+msgstr "بازگشت به خانه &raquo;"
+
+#. Name of the template
+msgid "Blank"
+msgstr "جای خالی"
+
+#. Name of the template
+msgid "Blank with container"
+msgstr "خالی با جایگاه"
+
+#. Name of the template
+msgid ""
+"Blank without container (Don't use it. Use Blank template instead. This file "
+"will be removed later)"
+msgstr ""
+"خالی بدون جایگاه (از آن استفاده نکنید. به جای آن از الگوی خالی استفاده کنید. این "
+"فایل بعدا حذف خواهد شد)"
+
+#. Name of the theme
+#. Author of the theme
+msgid "bootScore"
+msgstr ""
+
+#: comments.php:104
+msgid "Cancel"
+msgstr "لغو"
+
+#: header-woocommerce.php:149
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: comments.php:57 comments.php:77
+msgid "Comment navigation"
+msgstr "پیمایش نظر"
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "نظرات بسته است"
+
+#. 1: number of comments, 2: post title
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s نظر دادن در مورد &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s نظر دادن در مورد &ldquo;%2$s&rdquo;"
+
+#. %s: post title
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One Comment &ldquo;%s&rdquo;"
+msgstr "یک نظر &ldquo;%s&rdquo;"
+
+#: languages/plugin-translations.php:4
+msgid ""
+"Cookies help us deliver our services. By using our services, you agree to our "
+"use of cookies."
+msgstr ""
+"کوکی ها به ما در ارائه خدمات کمک می کنند. با استفاده از خدمات ما، با استفاده ما "
+"از کوکی ها موافقت می‌کنید."
+
+#: woocommerce/checkout/form-shipping.php:36
+msgid "Delivery details"
+msgstr "جزئیات تحویل"
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/comment-list.php:27 inc/comment-list.php:51 inc/template-tags.php:139
+msgid "Edit"
+msgstr "ویرایش"
+
+#: comments.php:129 woocommerce/single-product-reviews.php:96
+msgid "Email* (will not be published)"
+msgstr "ایمیل* (منتشر نخواهد شد)"
+
+#: functions.php:172
+msgid "Footer 1"
+msgstr "پاورقی ۱"
+
+#: functions.php:184
+msgid "Footer 2"
+msgstr "پاورقی ۲"
+
+#: functions.php:196
+msgid "Footer 3"
+msgstr "پاورقی ۳"
+
+#: functions.php:208
+msgid "Footer 4"
+msgstr "پاورقی ۴"
+
+#. Name of the template
+msgid "Full Width Image"
+msgstr "تصویر تمام عرض"
+
+#. Name of the template
+msgid "Full width image"
+msgstr "تصویر تمام عرض"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:17
+msgid "Hello"
+msgstr "سلام"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:22
+msgid ""
+"Here you can view your recent orders, manage your shipping and billing "
+"addresses, and edit your password and account details."
+msgstr ""
+"در اینجا می‌توانید سفارش‌های اخیر خود را مشاهده کنید، آدرس‌های ارسال و صورت‌حساب خود "
+"را مدیریت کنید و رمز عبور و جزئیات حساب خود را ویرایش کنید."
+
+#. Author URI of the theme
+msgid "https://bootscore.me"
+msgstr ""
+
+#. URI of the theme
+msgid "https://bootscore.me/"
+msgstr ""
+
+#: functions.php:277
+msgid "Internet Explorer detected"
+msgstr "اینترنت اکسپلورر شناسایی شد"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+"به نظر می رسد ما نمی توانیم&rsquo;آنچه شما به دنبال آن هستید&rsquo;را پیدا کنیم. "
+"شاید جستجو بتواند کمک کند."
+
+#. %s: post title
+#: comments.php:102 inc/template-tags.php:111
+msgid "Leave a Comment"
+msgstr "پیام بگذارید"
+
+#: inc/template-tags.php:167
+msgid "Leave a comment"
+msgstr "پیام بگذارید"
+
+#: comments.php:103
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "پیام بگذارید برای %s"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "نوار کناری سمت چپ"
+
+#: languages/plugin-translations.php:3
+msgid "Look what I found: "
+msgstr "ببین چی پیدا کردم:"
+
+#: header-woocommerce.php:55 header.php:55
+msgid "Menu"
+msgstr "منو"
+
+#: languages/plugin-translations.php:6
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: comments.php:126 woocommerce/single-product-reviews.php:90
+msgid "Name*"
+msgstr "نام*"
+
+#: comments.php:61 comments.php:81
+msgid "Newer Comments"
+msgstr "نظرات جدیدتر"
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr "بدون نوار کناری"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found for"
+msgstr "چیزی  پیدا نشد برای"
+
+#: comments.php:60 comments.php:80
+msgid "Older Comments"
+msgstr "نظریات قدیمی‌تر"
+
+#: sidebar.php:21
+msgid "Open side menu"
+msgstr "منوی کناری را باز کنید"
+
+#: functions.php:281
+msgid "or"
+msgstr "یا"
+
+#: 404.php:23
+msgid "Page not found."
+msgstr "صفحه یافت نشد."
+
+#: page.php:44 page-templates/page-blank-with-container.php:25
+#: page-templates/page-sidebar-left.php:39 page-templates/page-blank.php:25
+#: page-templates/page-sidebar-none.php:34
+#: page-templates/page-blank-without-container.php:25
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: functions.php:442
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: inc/comment-list.php:27
+msgid "Pingback:"
+msgstr "پینگ بک:"
+
+#: functions.php:279
+msgid "Please use a modern and secure web browser like"
+msgstr "لطفا از یک مرورگر وب مدرن و ایمن  استفاده کنید مانند "
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "توسط %s"
+
+#: comments.php:105
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: author.php:69
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: archive-sidebar-left.php:66 archive-equal-height.php:64 archive.php:64
+#: archive-equal-height-sidebar-right.php:63 category-equal-height.php:64
+#: category-sidebar-left.php:64 category.php:62 author-sidebar-left.php:72
+#: category-masonry.php:64 author-equal-height.php:70
+#: category-equal-height-sidebar-right.php:64
+#: author-equal-height-sidebar-right.php:69 author-masonry.php:70 index.php:82
+#: index.php:139 archive-masonry.php:64 template-parts/content-search.php:43
+msgid "Read more »"
+msgstr "ادامه مطلب »"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"برای انتشار اولین پست خود آماده اید؟ <a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: inc/comment-list.php:105
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"برای دفعه بعد که نظر می دهم نام، ایمیل و وب سایت من را در این مرورگر ذخیره کنید."
+
+#: searchform.php:3
+msgid "Search"
+msgstr "جست‌وجو"
+
+#. %s: search query.
+#: search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: woocommerce/loop/orderby.php:28
+msgid "Shop order"
+msgstr "سفارش خرید"
+
+#: functions.php:148 sidebar.php:26
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#. Name of the template
+msgid "Sidebar left"
+msgstr "نوار کناری سمت چپ"
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متأسفیم، اما هیچ چیزی با عبارات جستجوی شما مطابقت نداشت. لطفاً با چند کلمه کلیدی "
+"مختلف دوباره امتحان کنید."
+
+#: comments.php:107
+msgid "Start typing..."
+msgstr "شروع به تایپ کنید..."
+
+#: functions.php:443
+msgid "Submit"
+msgstr "ارسال"
+
+#. 1: list of tags.
+#: inc/template-tags.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "برچسب گذاری شد%1$s"
+
+#: functions.php:278
+msgid "This website will offer limited functionality in this browser."
+msgstr "این وب سایت قابلیت های محدودی را در این مرورگر ارائه می دهد."
+
+#: functions.php:283
+msgid "to display this site correctly."
+msgstr "برای نمایش صحیح این سایت"
+
+#: woocommerce/cart/mini-cart.php:120
+msgid "To find out your shipping cost, please proceed to checkout."
+msgstr "برای اطلاع از هزینه حمل و نقل خود، لطفاً برای تسویه حساب اقدام کنید."
+
+#: functions.php:160
+msgid "Top Footer"
+msgstr "پاورقی بالایی"
+
+#: functions.php:124
+msgid "Top Nav"
+msgstr "نوار بالایی"
+
+#: functions.php:136
+msgid "Top Nav Search"
+msgstr "نوار بالایی جست‌وجو"
+
+#: comments.php:134
+msgid "Website"
+msgstr "سایت اینترنتی"
+
+#: inc/comment-list.php:56
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Your review...*"
+msgstr "نظر شما...*"

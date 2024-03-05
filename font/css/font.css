@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "IRANSansXV";
+  src: url("./font/webfonts/IRANSansXV.woff2")
+      format("woff2 supports variations"),
+    url("./font/webfonts/IRANSansXV.woff2") format("woff2-variations");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "DanaVF";
+  src: url("./font/webfonts/DanaVF.woff2") format("woff2 supports variations"),
+    url("./font/webfonts/DanaVF.woff2") format("woff2-variations");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("./font/webfonts/Vazirmatn[wght].woff2")
+      format("woff2 supports variations"),
+    url("./font/webfonts/Vazirmatn[wght].woff2") format("woff2-variations");
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Estedad";
+  src: url("./font/webfonts/Estedad[KSHD,wght].woff2")
+      format("woff2 supports variations"),
+    url("./font/webfonts/Estedad[KSHD,wght].woff2") format("woff2-variations");
+  font-display: fallback;
+}
+
+
